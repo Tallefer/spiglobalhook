@@ -1,0 +1,2 @@
+rem D:\tfs-jzhang\AutoIt3\Aut2Exe\Aut2Exe_x64.exe /in D:\jzhang-working\tools\GlobalHookEx\ScreenLockWindow.au3
+"D:\ProgramFiles (x86)\AutoIt3\Aut2Exe\autoit3wrapper.exe" /in D:\jzhang-working\tools\GlobalHookEx\ScreenLockWindow.au3

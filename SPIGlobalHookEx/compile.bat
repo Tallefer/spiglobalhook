@@ -1,0 +1,2 @@
+call D:\program\VS2010SP1\vs2010.bat
+cl /o "SPIGlobalHookEx.dll" SPIGlobalHookEx.cpp /DLL /D "_UNICODE" /D "UNICODE" /D "_USRDLL" /D "_WINDOWS" /D "_WINDLL" /MD /DNDEBUG /SUBSYSTEM:WINDOWS /DEF:"SPIGlobalHookEx.def"
