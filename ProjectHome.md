@@ -1,0 +1,1 @@
+hook mouse&keyboard and lock screen. controlled by file or sequence keys.
